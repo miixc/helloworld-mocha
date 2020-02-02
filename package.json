@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "mocha demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miixc/helloworld-mocha.git"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "mocha"
+  ],
+  "author": "miixc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miixc/helloworld-mocha/issues"
+  },
+  "homepage": "https://github.com/miixc/helloworld-mocha#readme",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
+}
