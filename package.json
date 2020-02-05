@@ -4,7 +4,8 @@
   "description": "mocha demo",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "cover": "nyc mocha"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/miixc/helloworld-mocha#readme",
   "dependencies": {
     "mocha": "^7.0.1"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.0"
   }
 }
