@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/miixc/helloworld-mocha#readme",
   "dependencies": {
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   },
   "devDependencies": {
     "nyc": "^15.0.0"
